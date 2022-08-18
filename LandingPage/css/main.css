@@ -29,3 +29,23 @@ nav {
   border-radius: 30px;
   padding: 10px 20px;
 }
+
+main {
+  background-color: lightGrey;
+}
+
+#title {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20vh 0;
+}
+
+#title h1 {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+#title p {
+  font-size: 1.5rem;
+}

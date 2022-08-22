@@ -33,6 +33,7 @@ nav {
 
 main {
   background-color: lightGrey;
+  min-height: 90vh;
 }
 
 #title {
@@ -67,6 +68,7 @@ main {
 .myCard {
   min-height: 200px;
   width: 100%;
+  cursor: pointer;
 }
 
 .myCard:hover {
@@ -142,6 +144,78 @@ main {
 
 /*footer end */
 
+/* modal start */
+.myModal {
+  width: 40%;
+  min-height: 60vh;
+  position: fixed;
+  top: 15vh;
+  left: 30%;
+  background-color: white;
+  border-radius: 15px;
+  display: none;
+  z-index: 5;
+}
+.myModal img {
+  width: 100%;
+}
+
+.myModal h2 {
+  text-align: center;
+  margin: 0.5em 0;
+}
+
+.myModal span {
+  display: inline-block;
+  margin: 0.5em 10%;
+  color: orangered;
+}
+
+.myModal p {
+  text-align: justify;
+  width: 80%;
+  margin: 0.5em auto;
+}
+
+.myModal button {
+  display: block;
+  width: 30%;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border-color: blue;
+  background-color: transparent;
+  margin: 1em auto;
+}
+
+.myModal button:hover {
+  color: white;
+  background-color: blue;
+  cursor: pointer;
+}
+
+.myModal .closeBtn {
+  position: absolute;
+  top: 5px;
+  right: -20px;
+  font-size: 22px;
+}
+.myModal .closeBtn:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+.fadeBackground {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: gray;
+  opacity: 85%;
+  display: none;
+}
+/* modal end */
+
 /* tablet view */
 
 @media only screen and (max-width: 960px){
@@ -169,3 +243,4 @@ main {
     grid-template-columns: 1fr;
   }
 }
+

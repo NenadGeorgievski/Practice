@@ -8,10 +8,9 @@ $(document).ready(function () {
           <span>19 August, 2022</span>
           <p>6 plans to workout at home during Covid pandemic</p>
       </div>
-        `
+       `
       );
     }
-
   }
 
   $(".myCard").fadeOut();

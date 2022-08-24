@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\bin\Debug\net6.0\ref\HelloWorld.dll
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+E:\FullStackDevelopment\Practice\HelloWorldConsoleApp\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache

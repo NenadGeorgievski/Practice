@@ -21,3 +21,23 @@ foreach(double numbers in myArray2)
 {
     Console.WriteLine("Numbers in myArray2: " + numbers);
 }
+int myNum = 56;
+long myLongNum = myNum;
+
+int myNum2 = Convert.ToInt32(myLongNum);
+int myNum3 = (int)myLongNum;
+
+int i = 65;
+float f = 34.442f;
+double d = 2999.0001;
+bool b = true;
+
+Console.WriteLine(i.ToString());
+Console.WriteLine(f.ToString());
+Console.WriteLine(d.ToString());
+Console.WriteLine(b.ToString());
+
+int userNumber;
+Console.WriteLine("Please enter a number between 1 and 100");
+userNumber = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(userNumber.GetType());
